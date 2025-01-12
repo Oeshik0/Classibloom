@@ -1,0 +1,8 @@
+# Ignore image folder
+/dataset/
+
+# Ignore common image files
+*.jpg
+*.jpeg
+*.png
+*.gif
